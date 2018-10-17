@@ -2,7 +2,7 @@
 
 First things first, all credit for this idea goes to Ming Chow at Tufts University ([@0xmchow on Twitter](https://twitter.com/0xmchow)).
 
-<a href="https://twitter.com/0xmchow" target="_blank">@0xmchow on Twitter</a>
+<a href="https://twitter.com/0xmchow">@0xmchow on Twitter</a>
 
 Thanks, Ming!
 
